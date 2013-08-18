@@ -1,4 +1,4 @@
-# python-stellar-tweetbot
+# stellar-tweetbot (python version)
 
 ## Instructions
 
@@ -42,7 +42,7 @@ Alternatively... if you don't want to use virtualenv and/or python: the script d
 */5 * * * * /path/to/your/stellar-tweetbot/env/bin/python /path/to/your/stellar-tweetbot/index.py
 ```
 
-13. Follow your zombie/bot account, and you're done.
+Now follow your zombie/bot account, and you're done.
 
 ## Credits
 
